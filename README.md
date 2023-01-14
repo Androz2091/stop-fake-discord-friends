@@ -2,7 +2,7 @@
 
 ## Why?
 
-I am friends with +1k friends on Discord and need to filter out "fake" friends, people I've never talked to.
+I am friends with over 1000 users on Discord and I need to filter out the "fake" friends, the people I have never talked to.
 
 ## Run it
 
