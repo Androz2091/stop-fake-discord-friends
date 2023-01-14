@@ -1,0 +1,12 @@
+{
+  "name": "stop-fake-discord-friends",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Androz2091/stop-fake-discord-friends.git",
+  "author": "Androz2091 <androz2091@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "eris": "https://github.com/Androz2091/eris"
+  }
+}

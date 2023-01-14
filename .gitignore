@@ -1,0 +1,8 @@
+# Env
+.env
+
+# Data
+data/
+
+# Node
+node_modules
